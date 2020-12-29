@@ -1,2 +1,2 @@
 # JS
-JavaScript Projects
+MERN Memory Project
